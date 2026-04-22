@@ -15,3 +15,9 @@ git init
 git branch -M main
 git add .
 git commit -m "chore: initial repository setup"
+
+## ✨ Feature Update
+
+- Added Git workflow documentation
+- Practiced branch creation
+- Learned pull request process
