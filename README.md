@@ -24,4 +24,4 @@ git commit -m "chore: initial repository setup"
 
 # git-practice-lab 🚀
 
-This is the MAIN branch version of README.
+This is the UPDATED MAIN branch version after new changes.
