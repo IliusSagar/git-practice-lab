@@ -21,3 +21,7 @@ git commit -m "chore: initial repository setup"
 - Added Git workflow documentation
 - Practiced branch creation
 - Learned pull request process
+
+# git-practice-lab 🚀
+
+This is the MAIN branch version of README.
